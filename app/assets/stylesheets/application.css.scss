@@ -38,5 +38,22 @@ h1,h2,h3 {
   margin-top: -20px;
   padding-top: 50px;
   padding-bottom: 100px;
+}
+
+.navbar-default .navbar-brand{
+  color: whitesmoke;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: whitesmoke;
+}
+
+.navbar-default .navbar-brand:hover{
+  color: whitesmoke;
+  opacity: .5;
+}
   
+.navbar-default .navbar-nav > li > a:hover {
+  color: whitesmoke;
+  opacity: .5;
 }
